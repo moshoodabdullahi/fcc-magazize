@@ -4,8 +4,6 @@
 
 ![screenshot](./docs-fcc-magazine.netlify.app_.png)
 
-# This PR adds a magazine webpage using CSS Grid including concepts like grid rows and grid columns.
-
 ## Built With
 
 - HTML5 elements
