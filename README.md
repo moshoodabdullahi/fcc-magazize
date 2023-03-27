@@ -1,25 +1,24 @@
 # FCC MAGAZINE
 
-> A basic HTML and CSS element to demostarte styling.
+> A magazine webpage CSS Grid including concepts like grid rows and grid columns.
 
 ![screenshot](./docs-fcc-magazine.netlify.app_.png)
 
-Additional description about the project and its features.
+# This PR adds a magazine webpage using CSS Grid including concepts like grid rows and grid columns.
 
 ## Built With
 
 - HTML5 elements
-  - `header`,
-  - `section`, `main`,
-  - `img`, `h1`, `p`, `div`,
-  - `blockquote`, `hr`, `article`,
-  - `h3`, `h4`, `ul`, `li`, `aside`.
+  - Heading elements such as `h1`, `h2` and so on,
+  - Block elements such as `blockquote`, `hr`and so on,
 - CSS properties
+  - CSS selectors such as `::before`, `::after` and so on,
+  - CSS grid such as `grid-template-column`, `grid-auto-flow`, `grid-columns`, `grid-rows` and so on,
+  - Typography such as `font-size`, `font-family` and so on,
   - CSS Variables for reusable CSS values,
   - CSS Media Query for page responsiveness using `@media` rule,
   - CSS Positioning `relative`,
   - CSS Background for page aesthetic using `background-color`.
-  - `html`, `body`, `main`, `img`, `hr`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
@@ -34,7 +33,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-magazize.git
 ```
 
 - Install Dependencies
@@ -77,7 +76,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
